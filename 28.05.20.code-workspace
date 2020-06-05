@@ -1,0 +1,16 @@
+{
+	"folders": [
+		{
+			"path": "../Core-HomeWork"
+		},
+		{
+			"path": "."
+		},
+		{
+			"path": "../Core-HW1"
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "goit-markup-hw-02"
+	}
+}

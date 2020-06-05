@@ -1,3 +1,9 @@
 p {
     color: peru;
 }
+.main-menu-link:hover {
+    color: rgb(201, 33, 33);
+}
+.coffee-item h2 {
+    color: blueviolet;
+}
